@@ -22,7 +22,7 @@ jobs:
         dotnet-version: 7.0.*
         
     - name: Install dependencies
-      run: dotnet restore
+      run: dotnet restore Skyblock.csproj
       
     - name: Build
       run: dotnet build Skyblock.sln --configuration Release --no-restore
