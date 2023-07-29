@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="LitJSON">
+      <HintPath>D:\windows11\下载\litjson.0.17.0\lib\net35\LitJSON.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

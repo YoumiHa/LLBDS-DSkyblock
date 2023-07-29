@@ -1,0 +1,49 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+<GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+    <Nullable>enable</Nullable>
+<PublishAot>true</PublishAot>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Lanzou\**" />
+    <EmbeddedResource Remove="Lanzou\**" />
+    <None Remove="Lanzou\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="Common\ExampleDynamicCommand.cs" />
+    <Compile Remove="FileV\Json.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Costura.Fody" Version="5.7.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Obfuscar" Version="2.2.37">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles;compile; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Colorful.Console">
+      <HintPath>..\BBET\testexe\bin\Debug\net8.0\Colorful.Console.dll</HintPath>
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="LiteLoader.NET">
+      <HintPath>H:\LiteLoader.NET.dll</HintPath>
+    </Reference>
+    <Reference Include="LitJSON">
+      <HintPath>D:\windows11\下载\litjson.0.17.0\lib\net35\LitJSON.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\BBET\testexe\bin\Debug\net8.0\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
