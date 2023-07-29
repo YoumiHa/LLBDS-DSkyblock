@@ -1,0 +1,14 @@
+F:\Skyblock\Lanzou\src\LanZouCloud\bin\Debug\net5.0\LanZouCloud.deps.json
+F:\Skyblock\Lanzou\src\LanZouCloud\bin\Debug\net5.0\LanZouCloud.dll
+F:\Skyblock\Lanzou\src\LanZouCloud\bin\Debug\net5.0\LanZouCloud.pdb
+F:\Skyblock\Lanzou\src\LanZouCloud\obj\Debug\net5.0\LanZouCloud.csproj.AssemblyReference.cache
+F:\Skyblock\Lanzou\src\LanZouCloud\obj\Debug\net5.0\LanZouCloud.GeneratedMSBuildEditorConfig.editorconfig
+F:\Skyblock\Lanzou\src\LanZouCloud\obj\Debug\net5.0\LanZouCloud.AssemblyInfoInputs.cache
+F:\Skyblock\Lanzou\src\LanZouCloud\obj\Debug\net5.0\LanZouCloud.AssemblyInfo.cs
+F:\Skyblock\Lanzou\src\LanZouCloud\obj\Debug\net5.0\LanZouCloud.csproj.CoreCompileInputs.cache
+F:\Skyblock\Lanzou\src\LanZouCloud\obj\Debug\net5.0\LanZouCloud.dll
+F:\Skyblock\Lanzou\src\LanZouCloud\obj\Debug\net5.0\refint\LanZouCloud.dll
+F:\Skyblock\Lanzou\src\LanZouCloud\obj\Debug\net5.0\LanZouCloud.pdb
+F:\Skyblock\Lanzou\src\LanZouCloud\obj\Debug\net5.0\ref\LanZouCloud.dll
+F:\Skyblock\Lanzou\src\LanZouCloud\bin\Debug\net5.0\LitJSON.dll
+F:\Skyblock\Lanzou\src\LanZouCloud\obj\Debug\net5.0\LanZouCloud.csproj.CopyComplete

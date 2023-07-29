@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "uuus1Iro15aGbVQVrbcDwLvvWNBxvG5u0nK4Sch7BdQEKKLnw1Q1Pu+sbgnR0IXT2b8mLud6vd/B0NiR8jlVBA==",
+  "success": true,
+  "projectFilePath": "F:\\Skyblock\\Lanzou\\src\\LanZouCloud\\LanZouCloud.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

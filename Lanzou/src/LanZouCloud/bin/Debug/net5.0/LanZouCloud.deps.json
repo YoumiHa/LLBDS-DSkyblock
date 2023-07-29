@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "LanZouCloud/1.0.0": {
+        "dependencies": {
+          "LitJSON": "0.17.0.0"
+        },
+        "runtime": {
+          "LanZouCloud.dll": {}
+        }
+      },
+      "LitJSON/0.17.0.0": {
+        "runtime": {
+          "LitJSON.dll": {
+            "assemblyVersion": "0.17.0.0",
+            "fileVersion": "0.17.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LanZouCloud/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LitJSON/0.17.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
